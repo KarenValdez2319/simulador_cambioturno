@@ -1,2 +1,4 @@
-# simulador_cambioturno
-Proyecto de Simulador de Cambio de Turno
+# Simulador Cambio de Turno
+Proyecto de Simulador Cambio de Turno
+
+FAVOR DE REVISAR LA RAMA master
